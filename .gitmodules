@@ -1,0 +1,3 @@
+[submodule "testfolder/template"]
+	path = testfolder/template
+	url = https://github.com/substratum/template.git
